@@ -1,0 +1,10 @@
+com\servermanager\model\Response$ResponseBuilderImpl.class
+com\servermanager\model\Response.class
+com\servermanager\service\ServerService.class
+com\servermanager\repo\ServerRepo.class
+com\servermanager\model\Response$ResponseBuilder.class
+com\servermanager\model\Server.class
+com\servermanager\ServerManagerApplication.class
+com\servermanager\controller\ServerController.class
+com\servermanager\enumeration\Status.class
+com\servermanager\service\implementation\ServerServiceImpl.class
